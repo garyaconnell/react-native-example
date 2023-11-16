@@ -6,3 +6,4 @@ export { default as CounterScreen } from './CounterScreen';
 export { default as ColorScreen } from './ColorScreen';
 export { default as SquareScreen } from './SquareScreen';
 export { default as TextScreen } from './TextScreen';
+export {default as BoxScreen} from './BoxScreen';
